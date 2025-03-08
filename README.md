@@ -2,7 +2,7 @@
 (https://github.com/SergeySchepilin/sf_data_science.git)
 
 #  Проекты 
-*[Проект угадай число](https://github.com/SergeySchepilin/sf_data_science/tree/main/Guess_number)
+* [Проект угадай число](https://github.com/SergeySchepilin/sf_data_science/tree/main/Guess_number)
 
-*[Домашнее задание](https://github.com/SergeySchepilin/sf_data_science/tree/main/homework)
+* [Домашнее задание](https://github.com/SergeySchepilin/sf_data_science/tree/main/homework)
 
