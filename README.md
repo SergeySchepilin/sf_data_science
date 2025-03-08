@@ -1,1 +1,7 @@
-test
+# Мои проекты по Data Science 
+https://github.com/SergeySchepilin/sf_data_science.git
+
+#  Проекты 
+[]
+[]
+[]
