@@ -59,6 +59,7 @@
 ### Результаты:  
 
 В результате мы выполнили все основные этапы работы с данными на примере заданного датасета и подготовили его к дальшешей обработке.
+(https://github.com/SergeySchepilin/sf_data_science/blob/main/Project1/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
 [к оглавлению](README.md#Оглавление)
 
