@@ -6,3 +6,4 @@
 
 * [Домашнее задание](https://github.com/SergeySchepilin/sf_data_science/tree/main/homework)
 
+* [Проект по hh_ru](https://github.com/SergeySchepilin/sf_data_science/tree/main/Project1)
